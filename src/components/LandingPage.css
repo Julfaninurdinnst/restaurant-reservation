@@ -1,0 +1,18 @@
+/* src/components/LandingPage.css */
+body {
+    background-color: chocolate;
+}
+header {
+    background-color: aliceblue;
+    color:darkorange;
+}
+.reservation-form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .reservation-form h2 {
+    color: #343a40;
+  }
+  
